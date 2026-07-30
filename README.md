@@ -1,5 +1,12 @@
-## Hi there 👋
+## Seja bem vindo(a) 🙋‍♂️
 
+😁 Olá, me chamo Lucas, sou aluno do [SENAI LEOPOLDINA](https://www.sp.senai.br/unidade/leopoldina/) no curso de Desenvolvimento de Sistemas.
+<br>
+🚗 Sou formado em mecânico de automóveis leves pelo [SENAI Ipiranga](https://www.sp.senai.br/unidade/automobilistica/) finalizado no último semestre de 2025.
+<br>
+🎮 Estou me especializando mais no ramo de Desenvolvimento de Jogos
+<br>
+💼 Para acessar meu perfil no Linkedln, [CLIQUE AQUI](https://google.com)
 <!--
 **LucasSilva8-ship-it/LucasSilva8-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
