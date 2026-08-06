@@ -1,6 +1,6 @@
 ## Seja bem vindo(a) 🙋‍♂️
 
-😁 Olá, me chamo Lucas, sou aluno do [SENAI LEOPOLDINA](https://www.sp.senai.br/unidade/leopoldina/) no curso de Desenvolvimento de Sistemas.
+😁 Olá, me chamo Lucas, sou aluno do [SENAI Vila Leopoldina](https://www.sp.senai.br/unidade/leopoldina/) no curso de Desenvolvimento de Sistemas.
 <br>
 🚗 Sou formado em mecânico de automóveis leves pelo [SENAI Ipiranga](https://www.sp.senai.br/unidade/automobilistica/) finalizado no último semestre de 2025.
 <br>
