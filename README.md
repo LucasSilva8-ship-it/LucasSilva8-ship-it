@@ -6,7 +6,7 @@
 <br>
 🎮 Estou me especializando mais no ramo de Desenvolvimento de Jogos
 <br>
-💼 Para acessar meu perfil no Linkedln, [CLIQUE AQUI](https://google.com)
+💼 Para acessar meu perfil no Linkedln, [CLIQUE AQUI](https://www.linkedin.com/in/lucas-pereira-ab8a1b303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 <!--
 **LucasSilva8-ship-it/LucasSilva8-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
